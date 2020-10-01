@@ -1,4 +1,4 @@
-# Web Template
+# Template Design
 This is a simple cross-platform repsonsive website template. 
   * HTML5
   * Font Awesome
